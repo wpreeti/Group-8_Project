@@ -4,14 +4,14 @@
 
 ### __The kind of data we’d like to work with and the field we’re interested in:__
 
-For this project, we will be analyizng the House Price Index (HPI) provided by the Federal Housing Finance Agency (FHFA). As per the FHFA, the HPI is a broad indicator of single-family house price trends at various geographic levels. The HPI can offer insights about house price fluctuations ranging from broader national level to very concise cencus tract level. We are interested in taking a deeper dive into the Finance and Real Estate industries using the HPI dataset because we want to take advantage of the level of transparency and accuracy a federal agency is required to maintain. With this, we believe we will be able to draw some very concise, acute conclusions based on our analysis of the dataset.
+For this project, we will be analyzing the House Price Index (HPI) provided by the Federal Housing Finance Agency (FHFA). As per the FHFA, the HPI is a broad indicator of single-family house price trends at various geographic levels. The HPI can offer insights about house price fluctuations ranging from broader national level to very concise cencus tract level. We are interested in taking a deeper dive into the Finance and Real Estate industries using the HPI dataset because we want to take advantage of the level of transparency and accuracy a federal agency is required to maintain. With this, we believe we will be able to draw some very concise, acute conclusions based on our analysis of the dataset.
 
 ### __Questions we will ask of the data:__
 
-- Is there any correlation between HPI and CPI/Inflation on a national level? On a city level?
-- Generating Statistical summery for each parameter over the periods of time and estimating the future price index.
+- Generating statistical summary for the House Price Index over the periods of time. Can we get the summary staticstics for the entirety of the U.S.? By region? By a state?
 - Is there any patterns or explanation in changes in HPI for certain regions being different from other regions? 
-- Is there any correlation between specific periods and HPI in the HPI_master data? (Are there periods of time where HPI changes more drastically?) 
+- What is the trend in HPI pre-covid? How did it change post-covid?
+- Is there any correlation between HPI and CPI/Inflation on a national level? Can we predict the future trends in HPI using a linear regression?
 
 ### __Source for the data:__
 
