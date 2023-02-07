@@ -9,6 +9,7 @@ For this project, we will be analyizng the House Price Index (HPI) provided by t
 ### __Questions we will ask of the data:__
 
 - Is there any correlation between HPI and CPI/Inflation on a national level? On a city level?
+- Generating Statistical summery for each parameter over the periods of time and estimating the future price index.
 - 
 
 ### __Source for the data:__
