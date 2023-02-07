@@ -10,7 +10,8 @@ For this project, we will be analyizng the House Price Index (HPI) provided by t
 
 - Is there any correlation between HPI and CPI/Inflation on a national level? On a city level?
 - Generating Statistical summery for each parameter over the periods of time and estimating the future price index.
-- 
+- Is there any patterns or explanation in changes in HPI for certain regions being different from other regions? 
+- Is there any correlation between specific periods and HPI in the HPI_master data? (Are there periods of time where HPI changes more drastically?) 
 
 ### __Source for the data:__
 
