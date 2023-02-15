@@ -14,20 +14,24 @@ For this project, we analyzed the House Price Index (HPI) provided by the Federa
 
 Our House Price Index data will come from the [FHFA website](https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx). We will be utilizing the Master HPI Data which appends quarterly and monthly data. Additionally, we will be utilizing the U.S. Bureau of Labor Statistics' Consumer Price Index dataset to answer our correlation questions. Specifically, we will utilize the [U.S. City Average, All items](https://www.bls.gov/cpi/data.htm) to gain a more broad understanding of the CPI.
 
-#### Are there any patterns or fluctuations in HPI based on region? How do the different regions compare?
+### Are there any patterns or fluctuations in HPI based on region? How do the different regions compare?
 
 We can see that HPI trends amongst all regions in the United States are fairly similar. We can see gradual linear increase from 1990 to around 2007, and slight regression until 2012. From 2012-2023 one can observe there is significant increase in HPI in all regions. All regions followed a similar pattern of growth, just on different scales. This is particularly prevalent in the Mountain and Pacific Region of the United States.
 
 ![HPI by Region](https://github.com/wpreeti/Group-8_Project/blob/main/HpiCpi_viz/output/samoutput.png?raw=true)
 
-#### What is the trend in HPI pre-COVID, and to what degree did it change during COVID?
+### What is the trend in HPI pre-COVID, and to what degree did it change during COVID?
 
-HPI Rises steadly from 2017 to 2019, at and increases about
+HPI Rises steadly from 2017 to 2019, at and increases about 45 points from 2017 to 2019. When looking at the change in HPI for the years of 2020 to 2022 however, the rate of change increases: HPI goes up about 120 points from 2020 to 2022. Various external factors
 
 ![HPI pre covid](https://github.com/wpreeti/Group-8_Project/blob/main/HpiCpi_viz/output/output5.png?raw=true)
 ![HPI post covid](https://github.com/wpreeti/Group-8_Project/blob/main/HpiCpi_viz/output/output6.png?raw=true)
 
-#### Is there any correlation between HPI and CPI (Inflation) on a national level? What conclusions can we draw from the comparison?
+Additionally, in analyzing the more recent years, we can use use the previous years' trends to forcast how HPI may change in the future.
+
+![HPI prediction](https://github.com/wpreeti/Group-8_Project/blob/main/HpiCpi_viz/output/output4.png?raw=true)
+
+### Is there any correlation between HPI and CPI (Inflation) on a national level? What conclusions can we draw from the comparison?
 
 In our exploratory analysis of the average HPI per year in the U.S., there are 3 immediate observations:
 - Effect of Housing Market Crash: We saw peak unemployment and peak home foreclosures in 2010
